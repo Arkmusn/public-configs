@@ -360,3 +360,4 @@ payload:
   - 'DOMAIN-SUFFIX,ldplayer.gg'
   - 'DOMAIN-SUFFIX,workers.dev'
   - 'DOMAIN,advertise.ldplayer.net'
+  - 'DOMAIN,ad.ldplayer.net'
