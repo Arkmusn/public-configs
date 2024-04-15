@@ -359,3 +359,4 @@ payload:
   - 'DOMAIN,cdn.ldplayer.net'
   - 'DOMAIN-SUFFIX,ldplayer.gg'
   - 'DOMAIN-SUFFIX,workers.dev'
+  - 'DOMAIN,advertise.ldplayer.net'
