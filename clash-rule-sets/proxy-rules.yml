@@ -296,6 +296,7 @@ payload:
   - 'DOMAIN-SUFFIX,wikiwiki.jp'
   - 'DOMAIN-SUFFIX,v2ex.com'
   - 'DOMAIN-SUFFIX,github.com'
+  - 'DOMAIN-SUFFIX,githubassets.com'
   - 'DOMAIN-SUFFIX,qnapclub.test'
   - 'DOMAIN-SUFFIX,qnapclub.eu'
   - 'DOMAIN-SUFFIX,telegram.org'
