@@ -1,6 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,proxifier.com'
   - 'DOMAIN-SUFFIX,nexus-cdn.com'
+  - 'DOMAIN-SUFFIX,nexusmods.com'
   - 'DOMAIN-SUFFIX,appboycdn.com'
   - 'DOMAIN-SUFFIX,dmhy.org'
   - 'DOMAIN-SUFFIX,madou.club'
