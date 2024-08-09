@@ -323,6 +323,7 @@ payload:
   - 'DOMAIN-SUFFIX,lbtlm.com'
   - 'DOMAIN-SUFFIX,mouseflow.com'
   - 'DOMAIN-SUFFIX,docker.com'
+  - 'DOMAIN-SUFFIX,docker.io'
   - 'DOMAIN-SUFFIX,githack.com'
   - 'DOMAIN-SUFFIX,ixxx.com'
   - 'DOMAIN-SUFFIX,niceupskirt.com'
