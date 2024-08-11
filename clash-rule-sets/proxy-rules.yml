@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,proxifier.com'
+  - 'DOMAIN-SUFFIX,intergient.com'
   - 'DOMAIN-SUFFIX,wikia-services.com'
   - 'DOMAIN-SUFFIX,nexus-cdn.com'
   - 'DOMAIN-SUFFIX,nexusmods.com'
