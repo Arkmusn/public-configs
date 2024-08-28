@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,proxifier.com'
+  - 'DOMAIN-SUFFIX,metacubex.one'
   - 'DOMAIN-SUFFIX,intergient.com'
   - 'DOMAIN-SUFFIX,dmm.com'
   - 'DOMAIN-SUFFIX,wikia-services.com'
