@@ -1,6 +1,5 @@
 payload:
   - 'DOMAIN-SUFFIX,proxifier.com'
-  - 'DOMAIN-SUFFIX,ubuntu.com'
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,metacubex.one'
   - 'DOMAIN-SUFFIX,intergient.com'
