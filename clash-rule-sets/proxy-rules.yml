@@ -365,6 +365,7 @@ payload:
   - 'DOMAIN-KEYWORD,ubi'
   - 'DOMAIN-SUFFIX,ldplayer.tw'
   - 'DOMAIN,backstage.ldplayer.net'
+  - 'DOMAIN,member.ldplayer.net'
   - 'DOMAIN,cdn.ldplayer.net'
   - 'DOMAIN-SUFFIX,ldplayer.gg'
   - 'DOMAIN-SUFFIX,workers.dev'
