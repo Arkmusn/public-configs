@@ -2,6 +2,8 @@ payload:
   - 'DOMAIN-SUFFIX,proxifier.com'
   - 'DOMAIN-SUFFIX,hysteria.network'
   - 'DOMAIN-SUFFIX,cloudflare.com'
+  - 'DOMAIN-SUFFIX,stripe.com'
+  - 'DOMAIN-SUFFIX,cloudflareinsights.com'
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,metacubex.one'
   - 'DOMAIN-SUFFIX,intergient.com'
