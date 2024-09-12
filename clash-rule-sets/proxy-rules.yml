@@ -376,6 +376,7 @@ payload:
   - 'DOMAIN-SUFFIX,workers.dev'
   - 'DOMAIN,advertise.ldplayer.net'
   - 'DOMAIN,ad.ldplayer.net'
+  - 'DOMAIN-SUFFIX,ldrescdn.com'
   - 'DOMAIN,storetw.ldmnq.com'
   - 'DOMAIN-KEYWORD,easyfun'
   - 'DOMAIN-SUFFIX,qnapclub.eu'
