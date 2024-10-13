@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,proxifier.com'
+  - 'DOMAIN-SUFFIX,paradoxwikis.com'
   - 'DOMAIN,plugins.jetbrains.com'
   - 'DOMAIN-SUFFIX,proxmox.com'
   - 'DOMAIN-SUFFIX,hysteria.network'
