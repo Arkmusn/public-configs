@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,m-team.cc'
+  - 'DOMAIN,github.com'
   - 'DOMAIN-SUFFIX,pages.dev'
   - 'DOMAIN-SUFFIX,ccache.org'
   - 'DOMAIN-SUFFIX,cloudflare.com'
