@@ -1,4 +1,16 @@
 payload:
+# move from tcloud.yml
+  - 'DOMAIN-SUFFIX,m-team.cc'
+  - 'DOMAIN-SUFFIX,pages.dev'
+  - 'DOMAIN-SUFFIX,ccache.org'
+  - 'DOMAIN-SUFFIX,cloudflare.com'
+  - 'DOMAIN-SUFFIX,adsl.cloud'
+  - 'DOMAIN-SUFFIX,steampowered.com'
+  - 'DOMAIN-SUFFIX,steamstatic.com'
+  - 'DOMAIN-SUFFIX,steamcommunity.com'
+  - 'DOMAIN-KEYWORD,txwy'
+  - 'DOMAIN-KEYWORD,xn--gmqz83awjh.org'
+# ---
   - "DOMAIN-SUFFIX,sakamoto.blog"
   - "DOMAIN-SUFFIX,ldplayerx.com"
   - "DOMAIN-SUFFIX,isthereanydeal.com"
