@@ -1,0 +1,6 @@
+payload:
+  - 'DOMAIN-SUFFIX,easyfun.gg'
+  - 'DOMAIN-REGEX,^pre-pro-.*'
+  - 'DOMAIN-REGEX,^.*?api.*?\.ldplayer.net$'
+  - 'DOMAIN-REGEX,^.*?pre-prod.*?\.ldplayer.net$'
+  - 'DOMAIN-REGEX,^.*?appcenter.*?\.ldplayer.net$'
