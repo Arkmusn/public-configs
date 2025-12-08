@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-KEYWORD,nacos-*.ldplayer.net
+  - DOMAIN-KEYWORD,logging-*.ldplayer.net
+  - DOMAIN-KEYWORD,prometheus-*.ldplayer.net
+  - DOMAIN-KEYWORD,grafana-*.ldplayer.net
+  - DOMAIN-KEYWORD,pre-prod-*.ldplayer.net
