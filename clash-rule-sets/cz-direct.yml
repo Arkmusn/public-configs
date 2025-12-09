@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-KEYWORD,nacos-*.ldplayer.net
-  - DOMAIN-KEYWORD,logging-*.ldplayer.net
-  - DOMAIN-KEYWORD,prometheus-*.ldplayer.net
-  - DOMAIN-KEYWORD,grafana-*.ldplayer.net
-  - DOMAIN-KEYWORD,pre-prod-*.ldplayer.net
+  - DOMAIN-WILDCARD,nacos-*.ldplayer.net
+  - DOMAIN-WILDCARD,logging-*.ldplayer.net  
+  - DOMAIN-WILDCARD,prometheus-*.ldplayer.net
+  - DOMAIN-WILDCARD,grafana-*.ldplayer.net
+  - DOMAIN-WILDCARD,pre-prod-*.ldplayer.net
