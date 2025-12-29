@@ -4,3 +4,4 @@ payload:
   - DOMAIN-WILDCARD,prometheus-*.ldplayer.net
   - DOMAIN-WILDCARD,grafana-*.ldplayer.net
   - DOMAIN-WILDCARD,pre-prod-*.ldplayer.net
+  - DOMAIN-WILDCARD,skywalking-*.ldplayer.net
