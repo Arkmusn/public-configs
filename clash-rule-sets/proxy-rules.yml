@@ -11,6 +11,7 @@ payload:
   - 'DOMAIN-KEYWORD,txwy'
   - 'DOMAIN-KEYWORD,xn--gmqz83awjh.org'
 # ---
+  - "DOMAIN-SUFFIX,ubuntu.com"
   - "DOMAIN-SUFFIX,themoviedb.org"
   - "DOMAIN-SUFFIX,sakamoto.blog"
   - "DOMAIN-SUFFIX,ldplayerx.com"
