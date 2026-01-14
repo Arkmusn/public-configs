@@ -327,7 +327,6 @@ payload:
   - 'DOMAIN-SUFFIX,rule34.xxx'
   - 'DOMAIN-SUFFIX,fontawesome.com'
   - 'DOMAIN-SUFFIX,bluekai.com'
-  - 'DOMAIN-SUFFIX,wikiwiki.jp'
   - 'DOMAIN-SUFFIX,v2ex.com'
   - 'DOMAIN-SUFFIX,github.com'
   - 'DOMAIN-SUFFIX,githubassets.com'
